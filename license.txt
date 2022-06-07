@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sugarcube Corner
+* source:	https://sketchfab.com/3d-models/sugarcube-corner-1a70d3380d534ae589c452ada453f7a4
+* author:	Olivia Sabatka (https://sketchfab.com/discopears)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sugarcube Corner" (https://sketchfab.com/3d-models/sugarcube-corner-1a70d3380d534ae589c452ada453f7a4) by Olivia Sabatka (https://sketchfab.com/discopears) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
